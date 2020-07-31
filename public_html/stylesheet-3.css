@@ -1,0 +1,40 @@
+
+body{
+    font-size: 34px;
+    font-family: roboto;
+    background-color: black;
+    color: #FFFF00;
+}
+h4{
+    font: oblique bolder 34px roboto;
+}
+
+div{
+    border:5px solid white;
+    margin: 10px 10px 10px 10px;
+    padding:20px;
+    float:left;
+}
+
+#left{
+    float:left;
+}
+
+#right{
+    float:right;
+}
+
+#background-image
+{
+    background-image: url("img/background.jpg");
+    height: 500px;
+    width:1200px;
+    padding: 5px 5px 5px 5px;
+    color:#FFFFFF;
+    margin:10px 10px 10px 50px;
+}
+
+#content
+{
+
+}
